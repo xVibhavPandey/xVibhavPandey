@@ -186,9 +186,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <em>Machine Learning · Data Science · Open Source · Leadership</em>
-</p>
+</p> -->
 
 ---
 
