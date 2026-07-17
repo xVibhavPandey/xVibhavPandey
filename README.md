@@ -194,9 +194,9 @@
 
 ## 🙏 Thanks For Stopping By!
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="400" alt="Thank you"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer" alt="footer"/>
