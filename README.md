@@ -1,5 +1,11 @@
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#6C5CE7">Vibhav Pandey</span>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Vibhav+Pandey!;Machine+Learning+%26+Data+Science+Enthusiast;Python+%7C+Java+%7C+C%2B%2B;VIT+Bhopal+%7C+Class+of+2027" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=600&color=6C5CE7&center=true&vCenter=true&multiline=false&width=750&height=55&lines=B.Tech+CSE+%40+VIT+Bhopal;Machine+Learning+%26+Data+Science+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="220" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="coding gif"/>
 </p>
 
 ---
@@ -146,7 +152,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xVibhavPandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xVibhavPandey&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=xVibhavPandey&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -182,6 +188,14 @@
 
 <p align="center">
   <em>Machine Learning · Data Science · Open Source · Leadership</em>
+</p>
+
+---
+
+## 🙏 Thanks For Stopping By!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="400" alt="Thank you"/>
 </p>
 
 <p align="center">
