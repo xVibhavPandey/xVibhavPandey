@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=flat" alt="Open to work" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="500" alt="boy working at laptop coding gif"/>
-</p>
+</p> -->
 
 ---
 
