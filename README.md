@@ -1,24 +1,163 @@
-# 💫 About Me:
-Technology enthusiast and pre-final year B.Tech student with strong foundations in Machine Learning and Data Science. Passionate
-about building impactful solutions that bridge the gap between technology and everyday life. Excels in leadership, communication, and
-collaborative problem-solving.
-My Interests: Music · Trekking · Travelling · Tech · Reading Books
-My Top Qualities: Leadership · Communication Fluency · Decision Making · Team Work
+<div align="center">
 
-Languages & Core<br>Python Java C++ OOPs<br>Data Structures R Programming<br>Machine Learning & Data Science<br>ML (Supervised & Unsupervised) Data Preprocessing NumPy Pandas<br>Scikit-learn Matplotlib Linear Regression Logistic Regression<br>Decision Trees Random Forest SVM / KNN Naive Bayes<br>Clustering PCA<br>Tools & Platforms<br>AWS Azure MySQL Jupyter<br>Anaconda VS Code Microsoft Excel Tableau<br>Power BI<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0D1117&height=200&section=header&text=Hi%20There!%20I'm%20Vibhav%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%40%20VIT%20Bhopal%20%7C%20ML%20%26%20Data%20Science&descAlignY=53&descAlign=50)
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeyvibhav10@gmail.com) 
+```
+$ whoami
+vibhav@github
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=xVibhavPandey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=xVibhavPandey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=xVibhavPandey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+$ ./build --stack ml --mode data-science --release
+[+] data preprocessing ... ok
+[+] model training ....... ok
+[+] evaluation ............ ok
+[*] deploying insights to github.com
+```
+
+<h3 align="center">Vibhav Pandey</h3>
+<p align="center">> Machine Learning ⚡ Data Science 📊</p>
+<p align="center">builds models, questions the data, ships the insight.</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xVibhavPandey)
+[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyvibhav10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhav-pandey-398281281)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+ML+models+that+matter;Open+source+contributor+%40+GSSoC+2024;Trekker+%7C+Reader+%7C+Music+lover)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=xVibhavPandey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📌 About Me
+
+```yaml
+name: Vibhav Pandey
+location: Varanasi, India
+role: "B.Tech CSE (Pre-Final Year) @ VIT Bhopal"
+cgpa: 8.99 / 10
+focus: ["Machine Learning", "Data Science", "Open Source"]
+learning: ["Advanced ML pipelines", "Cybersecurity fundamentals", "Cloud (AWS / Azure)"]
+current_project: "GramConnect — rural digital services app"
+looking_for: "ML collaborators, open-source issues, internship opportunities"
+interests: ["Music", "Trekking", "Travelling", "Reading Books"]
+top_qualities: ["Leadership", "Communication", "Decision Making", "Team Work"]
+believe: ["Data doesn't lie, but it doesn't tell the whole story", "Show up — that's most of leadership"]
+```
+
+---
+
+### 🛠️ Tech I Work With
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools & Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cybersecurity Tools** (from hands-on projects)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![NMap](https://img.shields.io/badge/NMap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+---
+
+### 🚀 Currently Shipping
+
+```diff
++ 🏘️  GramConnect — rural digital services app connecting villages to local governance
++ 🛡️  Network Intrusion Detection System — real-time traffic analysis & threat suggestions
+- 📊  Deepening ML fundamentals: model deployment, ensemble methods
+! 💬  Ask me about trekking routes, book recs, or your next ML project
+```
+
+**Featured Projects**
+
+| Project | Description |
+|---|---|
+| [GramConnect](https://github.com/xVibhavPandey/GramConnect) | OTP-based rural services app connecting citizens with local leaders in real time |
+| [Network Intrusion Detection System](https://github.com/xVibhavPandey) | Real-time traffic monitoring with Wireshark, NMap, iptables, Metasploit, Scapy |
+| [E-Commerce Rating Recommendation System](https://github.com/xVibhavPandey/E-Commerce-rating-Recommendation-System) | Recommender using Jaccard, Cosine & Dice similarity — 15% precision uplift over baseline |
+| [ToyProject-Machine-Learning-](https://github.com/xVibhavPandey/ToyProject-Machine-Learning-) | Placement predictor built with Linear Regression on IQ & CGPA |
+| [Pulse_Track](https://github.com/xVibhavPandey/Pulse_Track) | Personalised fitness tracker with activity-based suggestions |
+
+---
+
+### 📊 GitHub at a Glance
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xVibhavPandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E6EDF3)
+
+![Streak](https://streak-stats.demolab.com?user=xVibhavPandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVibhavPandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E6EDF3)
+
+</div>
+
+---
+
+### 🎓 Education & Certifications
+
+<details>
+<summary>Click to expand</summary>
+
+**Vellore Institute of Technology, Bhopal** — B.Tech, Computer Science Engineering (2023–2027) · CGPA 8.99/10
+
+- IBM Generative AI — *IBM*, June 2025
+- Oracle Foundation in Java — *Oracle*, July 2025
+- MathWorks Certification (MATLAB) — April 2024
+- Python Essentials, Fundamentals of AI & ML, Programming in Java — *Vityarthi*, 2024
+- Graph Theory Programming Camp — *AlgoUniversity*, 2026
+- Bits and Bytes of Computer Networking — *Coursera*, Nov 2025
+- Claude 101 — *Claude*, July 2026
+
+**Open Source Contributor** — GirlScript Summer of Code (GSSoC) 2024
+
+</details>
+
+---
+
+### 💭 Random Thought
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=A855F7&bg=0D1117)](https://github.com/xVibhavPandey)
+
+![Profile views](https://komarev.com/ghpvc/?username=xVibhavPandey&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:A855F7&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=FFFFFF&fontAlignY=70)
+
+</div>
